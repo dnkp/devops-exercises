@@ -104,7 +104,7 @@ To learn more about TCP/IP, read [here](http://www.penguintutor.com/linux/basic-
 
 <details>
 <summary>What is APIPA?</summary><br><b>
-APIPA is a set of it addresses that devices are allocated
+APIPA is a set of IP addresses that devices are allocated
 when the main DHCP server is not reachable
 </b></details>
 
